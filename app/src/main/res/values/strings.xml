@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="hint_enter_text">Введите текст…</string>
+    <string name="button_next">Далее</string>
+    <string name="button_back">Назад</string>
+    <string name="label_received_text">Полученный текст:</string>
+    <string name="text_empty">Текст не введен</string>
+</resources>
